@@ -1,9 +1,41 @@
-# Footer Component
+# Footer Component for Vue 3 with Tailwind CSS
 
-## Overview
-This component is a comprehensive footer designed for a Vue.js application. It provides a rich set of features including social media links, quick navigation, resource links, and customization options.
+A responsive and feature-rich footer component built with Vue 3 and styled using Tailwind CSS.
 
-## Features
+## Preview
+
+![Footer Preview](https://github.com/AroshaRavishan/Footer-Responsive-Vue3-Tailwind/blob/main/Footer%20Preview.png)
+
+*Footer component preview showing responsive design and key features*
+
+## Key Features
+
+- 🎨 Responsive Design
+- 🌐 Social Media Integration
+- 💱 Currency Selection
+- 🌍 Language Options (UI Ready)
+- 🔗 Quick Links and Resources
+- 📜 Legal Information
+
+## Technologies Used
+
+- Vue 3
+- Tailwind CSS
+- Inertia.js
+
+## Mobile View
+
+![Mobile Footer Preview](https://github.com/AroshaRavishan/Footer-Responsive-Vue3-Tailwind/blob/main/Footer%20Preview.png)
+
+*Mobile-friendly view of the footer component*
+
+## Desktop View
+
+![Desktop Footer Preview](https://github.com/AroshaRavishan/Footer-Responsive-Vue3-Tailwind/blob/main/Footer%20Preview.png)
+
+*Full desktop view showcasing all footer sections*
+
+## Detailed Features
 
 ### 1. Dynamic Year Display
 - Automatically updates the copyright year.
@@ -69,5 +101,3 @@ This component is a comprehensive footer designed for a Vue.js application. It p
 - Complete implementation of language selection functionality.
 - Potential for adding more customization options.
 - Possibility to expand social media integrations.
-
-This footer component provides a solid foundation for website navigation, user preferences, and brand representation, making it a valuable addition to any Vue.js based web application.
