@@ -25,7 +25,7 @@ A responsive and feature-rich footer component built with Vue 3 and styled using
 
 ## Mobile View
 
-![Mobile Footer Preview](https://github.com/AroshaRavishan/Footer-Responsive-Vue3-Tailwind/blob/main/Footer%20Preview.png)
+![Mobile Footer Preview](https://github.com/AroshaRavishan/Footer-Responsive-Vue3-Tailwind/blob/main/Mobile%20View.png)
 
 *Mobile-friendly view of the footer component*
 
